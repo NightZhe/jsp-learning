@@ -1,1 +1,1 @@
-# jpslearning
+jsp-learning
